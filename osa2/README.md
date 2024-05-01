@@ -18,3 +18,12 @@ cd puhelinluettelo
 npm install
 npm run dev
 ```
+
+## Maiden tiedot
+
+```
+npm create vite@latest maiden_tiedot -- --template react
+cd maiden_tiedot
+npm install
+npm run dev
+```
